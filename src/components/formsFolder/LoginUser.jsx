@@ -1,7 +1,7 @@
 import React from 'react'
 
-const LoginForm = () => {
-  return ( 
+const LoginUser = () => {
+    return ( 
     <>
 
         <section className='w-full flex justify-center px-3'>
@@ -66,4 +66,4 @@ const LoginForm = () => {
 ) 
 }
 
-export default LoginForm
+export default LoginUser

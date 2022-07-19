@@ -1,6 +1,6 @@
 import React from 'react'
-import image from './image/Logo.svg'
-import fondo from './image/PorkyPattern.png'
+import image from '../image/Logo.svg'
+import fondo from '../image/PorkyPattern.png'
 
 const Header = () => {
   return (
