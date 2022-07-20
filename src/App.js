@@ -23,8 +23,8 @@ function App() {
     <div className="from-colorTourq bg-gradient-to-b bg-colorYellow flex flex-col w-screen  min-h-screen">
       <Header />
       
-      {/* <SmallEventCard /> */}
-      <TallEventCard />
+      <SmallEventCard />
+      {/* <TallEventCard /> */}
       
       {/* <ButtonProfileUnsub />
       <AuthzHeaderButton /> */}

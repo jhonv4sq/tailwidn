@@ -6,4 +6,4 @@ const ProfileAuthz = () => {
     )
 }
 
-export default ProfileAuthz
+export default ProfileAuthz 
